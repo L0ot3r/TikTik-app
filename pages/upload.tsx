@@ -72,7 +72,7 @@ const Upload = () => {
 			router.push('/');
 		}
 	};
-
+	
 	return (
 		<div className='flex w-full h-full absolute left-0 top-[60px] mb-10 pt-10 lg:pt-20 bg-[#f8f8f8] justify-center'>
 			<div className='bg-white rounded-lg lg:h-[80vh] lg:w-[960px] flex gap-6 flex-wrap lg:justify-between justify-center items-center p-14 pt-6'>
